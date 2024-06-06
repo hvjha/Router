@@ -1,0 +1,20 @@
+.navbar{
+    text-align: right;
+}
+.navbar .active{
+    color:cyan;
+    background-color: black;
+}
+.navbar li{
+    display:inline-block;
+    padding: 10px 5px;
+}
+
+.nav-bar-link{
+    color:darkgreen;
+    text-decoration: none;
+}
+.nav-bar-link:hover{
+    color:red;
+    text-decoration:underline;
+}
